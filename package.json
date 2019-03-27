@@ -1,0 +1,19 @@
+{
+  "name": "connext-tools",
+  "version": "1.0.0",
+  "description": "* debugger tools for mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaozhengxin/connext-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaozhengxin/connext-tools/issues"
+  },
+  "homepage": "https://github.com/yaozhengxin/connext-tools#readme"
+}
