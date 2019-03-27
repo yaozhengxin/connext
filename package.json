@@ -1,6 +1,6 @@
 {
   "name": "connext-tools",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "* debugger tools for mobile",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yaozhengxin/connext-tools/issues"
   },
-  "homepage": "https://github.com/yaozhengxin/connext-tools#readme"
+  "homepage": "https://github.com/yaozhengxin/connext-tools#readme",
+  "dependencies": {
+    "connext-tools": "^1.0.1"
+  }
 }
